@@ -12,7 +12,7 @@ function Header() {
                 Repo
             </h1>
         <p className={headerStyles.description}>
-            Don't waste your time looking through this repository
+            Don&apos;t waste your time looking through this repository
         </p>
     </div>
   )
